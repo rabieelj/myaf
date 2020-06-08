@@ -24,6 +24,7 @@
         fill: $themeColor;
       }
     }
+	
 
     a.previous {
       svg {
@@ -37,6 +38,8 @@
       line-height: rem(22px);
       margin: 0 rem(10px);
     }
+	
+
   }
 
   &.pagination-post {
@@ -80,7 +83,7 @@
 
       .text {
         width: 100%;
-        display: flex;
+        text-align: center;
         align-items: center;
         justify-content: space-between;
         padding: rem(15px) 0;
@@ -88,3 +91,15 @@
     }
   }
 }
+	.prevp {
+	width: 29%;
+    float: left !important;
+	}
+	.nextp {
+    width: 70%;
+    float: right !important;
+	}
+	.nextpf{
+	width: 100%;
+	}
+	
