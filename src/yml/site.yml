@@ -17,5 +17,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Privacy policy
+    url: Privacy-policy
+  - title: Terms of use
+    url: /Termsofuse
 email: youremail@xyz.com
 disqus_username: disqus_username
