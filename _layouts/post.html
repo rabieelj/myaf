@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
-	{% assign url = '' %}
- 
-   
-        {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+	
     <body class="has-push-menu">
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
@@ -32,6 +29,7 @@
 
                 {% include toc.html %}
 
+        {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 
 
    {{ content }}
