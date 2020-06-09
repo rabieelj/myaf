@@ -29,10 +29,9 @@
 
                 {% include toc.html %}
 
-        {% assign url = post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
 
 
-   {{ content }}
+   {{ post.content }}
 
                 {% include pagination-post.html %}
             </article>
