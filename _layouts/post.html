@@ -29,7 +29,6 @@
 
                 {% include toc.html %}
 
-    {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
 
 
    {{ content }}
