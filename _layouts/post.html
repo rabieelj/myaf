@@ -30,7 +30,7 @@
 
                 {{ content }}
 {% assign url = '' %}
-    {% if paginator.page_trail %}
+    {% if paginator.post_trail %}
      
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
