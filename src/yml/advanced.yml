@@ -2,5 +2,5 @@ baseurl: " "
 url: " "
 google_analytics: UA-XXXXXXXX-X
 language: en
-categories_folder: category
+categories_folder: categorys
 sent_message_url: /contact/message-sent/
