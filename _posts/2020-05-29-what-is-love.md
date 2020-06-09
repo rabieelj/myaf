@@ -12,7 +12,6 @@ tags:
   - relationship
 author: thiagorossener
 paginate: false
-published: false
 ---
 After Becky and Jake were married, Becky continued with one of Jake’s family traditions by making chicken soup every Friday evening. However, try as she might, Jake would always say, “Becky, your soup is very good, but it’s not as good as my mother’s.”
 So Becky bought the best ingredients, changed the spices, tried with more vegetables, and still heard, “Thank you  making me this soup. If only it were as good as my mother used to make.”
