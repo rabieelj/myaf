@@ -9,8 +9,7 @@
 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
-			 {% for post in paginator.posts %}
-                 {% if post.visible== 1  %}
+			 
                 <p class="post-info">
                     {% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
@@ -34,8 +33,7 @@
 
 
    {{ content }}
- {% endif %}
-  {% endfor %}
+
                 {% include pagination-post.html %}
             </article>
 
