@@ -29,6 +29,12 @@
                 {% include toc.html %}
 
                 {{ content }}
+{% assign url = '' %}
+    {% if paginator.page_trail %}
+     
+        {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+    {% endif %}
+
 
                 {% include pagination-post.html %}
             </article>
