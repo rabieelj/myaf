@@ -10,7 +10,6 @@ tags:
   - blog
 author: thiagorossener
 paginate: false
-e
 ---
 No matter how people aged, an irresponsible person remains the same. Irresponsibility is an integrity issue. This always comes to mind. Unknowingly, the real reason why some people don't change despite old age is not due to mental issues but because of psychological condition. This is called Little Prince Syndrome, when it happens in adulthood, is otherwise called Peter Pan Syndrome. This is a typical condition which regularly results from an excessively defensive mother or father, or a parent who gives their child unfenced, and a lot of recognition and consideration, during youth and puberty. Such parental conduct is additionally now and again alluded to as passionate incest.
 
