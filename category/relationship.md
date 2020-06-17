@@ -1,5 +1,5 @@
 ---
 layout: category
-title: relationship
+title: Relationship
 slug: "{{slug}}"
 ---
