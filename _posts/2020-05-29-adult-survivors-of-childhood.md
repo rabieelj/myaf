@@ -1,12 +1,12 @@
 ---
-date: 2020-04-14 22:46:10
+date: 2020-04-14T22:46:10.000Z
 layout: post
 title: ADULT SURVIVORS OF CHILDHOOD
 description: A fellow came to see us who considered himself an adult. According
   to the story of his life, he had survived his painful childhood.
 image: /assets/img/uploads/father-and-son-2258681_640.jpg
 optimized_image: /assets/img/uploads/father-and-son-2258681_640.jpg
-category: blog
+category: "{{slug}}"
 tags:
   - old
   - childhood
